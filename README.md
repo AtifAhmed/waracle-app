@@ -22,4 +22,6 @@ The page will reload if you make edits.\
 Launches the test runner in the interactive watch mode.\
 Could have done more testing if more time was available
 
+### `things to improve or could have:-`
+1) API Key should not be in the source file
 
