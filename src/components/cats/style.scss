@@ -1,0 +1,35 @@
+.cats-wrapper {
+  .card {
+    //flex: 23%;
+    width: calc((24vw) - 15px);
+    min-width: 340px;
+    margin-bottom: 15px;
+    .card-body {
+      padding: 0;
+      img {
+        width: 100%;
+        object-fit: contain;
+      }
+    }
+    svg {
+      fill: #007bff;
+      height: 24px;
+      width: 24px;
+      &:hover {
+        cursor: pointer;
+        fill: darkblue;
+      }
+    }
+    .vote-down {
+      fill: initial;
+    }
+  }
+}
+.upload-cat {
+  width: 600px;
+  .spinner {
+    color: #007bff;
+    align-self: flex-end;
+    margin-top: 10px;
+  }
+}

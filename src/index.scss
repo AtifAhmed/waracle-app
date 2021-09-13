@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+body {
+  margin: 0;
+}
+.main-content {
+  background-color: #fbfbfb;
+  height: 100vh;
+}
+.not-allowed {
+  cursor: not-allowed !important;
+}
