@@ -24,4 +24,6 @@ Could have done more testing if more time was available
 
 ### `things to improve or could have:-`
 1) API Key should not be in the source file
+2) Could have used context instead of redux
+3) definitly, have more tests if its was live app
 
